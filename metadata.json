@@ -1,0 +1,7 @@
+{
+  "name": "想進步 - 吃、睡、練 三位一體",
+  "description": "整合訓練紀錄、AI 飲食辨識與恢復追蹤的專業健身 Web App，幫助你每天都比昨天更進步。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
